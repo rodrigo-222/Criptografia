@@ -1,7 +1,10 @@
 Cifra de Vigenère:
     A cifra de Vigenère é uma cifra de substituição polialfabética que é uma evolução natural da cifra de César. consiste basicamente em pegar uma palavra-chave e aplicar a cifra de César várias vezes, de acordo com os caracteres da palavra-chave.
+    
     https://wiki.imesec.ime.usp.br/books/criptografia/page/cifra-de-vigen%C3%A8re/export/pdf
+    
     https://www.boxentriq.com/code-breaking/vigenere-cipher
+    
     para testes : https://cryptii.com/pipes/vigenere-cipher
 
 Cifra de Playfair:
